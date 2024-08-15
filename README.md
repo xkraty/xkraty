@@ -2,7 +2,7 @@
 
 ![Rails](https://raw.githubusercontent.com/xkraty/xkraty/main/rails.webp)
 
-Hey there! I’m [Christian Campoli](https://www.campoli.me/) an Italian Software Architect and Rails Engineer living the dream in the Canary Islands. With 15 years of diving deep into web development, I specialize in crafting and optimizing custom applications that elevate businesses. Let’s create something extraordinary together!
+Hey there! I’m [Christian Campoli](https://www.campoli.me/) an 🇮🇹 Italian 🤌🏻 Software Architect and Rails Engineer living the dream in the 🇮🇨 Canary Islands. With 15 years of diving deep into web development, I specialize in crafting and optimizing custom applications that elevate businesses. Let’s create something extraordinary together!
 
 Greetings! I am an enthusiastic and dedicated developer with a deep-rooted love for crafting elegant and quality web solutions using [Ruby on Rails](https://rubyonrails.org/). 💎
 

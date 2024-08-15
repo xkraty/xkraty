@@ -92,8 +92,3 @@ Things I've been working on some project or played around with
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
-# Reviews
-
-`He's actually one of the best on whatever he does. That's what she's says to everyone`
-                            
-
